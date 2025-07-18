@@ -33,11 +33,11 @@ pip install -r requirements.txt
 ### Option 1: Run with Python
 
 ```bash
-python password_manager.py
+python main.py
 ```
 
 Make sure the following are in the same folder:
-- `password_manager.py`
+- `main.py`
 - `logo.png` (image used in UI)
 - `data.dat` (auto-created for storing credentials)
 
@@ -55,7 +55,7 @@ To simplify launching on Windows, a `run.bat` file is provided.
 
 #### 📝 Make sure:
 
-- `run.bat`, `password_manager.py`, and `logo.png` are in the **same folder**
+- `run.bat`, `main.py`, and `logo.png` are in the **same folder**
 - Python is installed and added to your **system PATH**
 
 ---
